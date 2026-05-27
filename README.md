@@ -129,7 +129,7 @@ The included suite simulates real-world threats to ensure the platform is produc
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/yourusername/keystroke-biometrics-auth.git
+git clone https://github.com/sravanthichoragudi/keystroke-biometrics-auth.git
 cd keystroke-biometrics-auth
 python -m venv venv
 venv\Scripts\activate
