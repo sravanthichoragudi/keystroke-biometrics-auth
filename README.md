@@ -19,7 +19,9 @@ It continuously profiles keyboard cadence, latency, and consistency to detect un
 🚀 **[ACCESS THE LIVE BIOMETRIC TERMINAL](https://biometric-security-terminal.streamlit.app/)**
 *Experience the Zero-Trust authentication pipeline and adversarial testing suite in real-time.*
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://biometric-security-terminal.streamlit.app/)
+<a href="https://biometric-security-terminal.streamlit.app/">
+  <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App">
+</a>
 
 ---
 
