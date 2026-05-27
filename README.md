@@ -13,15 +13,9 @@ This repository implements a production-ready behavioral biometric authenticatio
 It continuously profiles keyboard cadence, latency, and consistency to detect unauthorized access, spoofing, and automated attacks.
 
 ---
----
 ## 🛡️ Live Access
 
-🚀 **[ACCESS THE LIVE BIOMETRIC TERMINAL](https://biometric-security-terminal.streamlit.app/)**
-*Experience the Zero-Trust authentication pipeline and adversarial testing suite in real-time.*
-
-<a href="https://biometric-security-terminal.streamlit.app/">
-  <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App">
-</a>
+*You can [access the live biometric terminal here](https://biometric-security-terminal.streamlit.app/).*
 
 ---
 
